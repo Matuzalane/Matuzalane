@@ -15,7 +15,9 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Matuzalane&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
+##
 <br/>
+
 <div align="center"> 
     <a href="https://www.facebook.com/calebnunesmkt" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
@@ -67,3 +69,5 @@
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
+
+![Snake animation](https://github.com/rafaballerini/Matuzalane/blob/output/github-contribution-grid-snake.svg)
