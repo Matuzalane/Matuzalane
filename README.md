@@ -61,13 +61,17 @@
 ![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
 <br/>
+
+<div align="center" width="100%"> 
+  <img alt="Snake animation" src="https://github.com/Matuzalane/Matuzalane/blob/output/github-contribution-grid-snake.svg" />
+</div>
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matuzalane}/count.svg" /></p> 
-<br>
+  <br/>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matuzalane}/count.svg" /></p> 
+  <br/>
 </div>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
-
-![Snake animation](https://github.com/Matuzalane/Matuzalane/blob/output/github-contribution-grid-snake.svg)
