@@ -70,4 +70,4 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
 
-![Snake animation](https://github.com/rafaballerini/Matuzalane/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Matuzalane/Matuzalane/blob/output/github-contribution-grid-snake.svg)
