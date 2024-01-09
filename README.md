@@ -70,8 +70,6 @@
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/Matuzalane/Matuzalane/blob/output/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://github.com/Matuzalane/Matuzalane/blob/output/github-contribution-grid-snake.svg" />
   </picture>
-
-  <img alt="Snake animation" src="https://github.com/Matuzalane/Matuzalane/blob/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
