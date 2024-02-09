@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caleb+Nunes;I'm+24+years+old;I'm+from+Brazil;I'm+a+Front+End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caleb+Nunes;I'm+26+years+old;I'm+from+Brazil;I'm+a+Front+End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matuzalane&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Caleb Castilho Nunes github stats" /> 
@@ -56,6 +56,7 @@
 <br/>
 
 ### Studying in this moment:
+![Blazor](https://img.shields.io/badge/-Blazor-0D1117?style=for-the-badge&logo=blazor&labelColor=0D1117)&nbsp;
 ![AWS](https://img.shields.io/badge/-Amazon_AWS-0D1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900&labelColor=0D1117)&nbsp; 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![Php](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=php&logoColor=purple&labelColor=0D1117)&nbsp;
