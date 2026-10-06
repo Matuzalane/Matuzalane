@@ -1,39 +1,36 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caleb+Nunes;I'm+26+years+old;I'm+from+Brazil;I'm+a+Front+End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caleb+Nunes;I'm+26+years+old;I'm+from+Brazil;I'm+a+Front+End+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Matuzalane&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Caleb Castilho Nunes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Matuzalane&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matuzalane&show_icons=true&count_private=true&hide_border=true&title_color=7FFFD4&icon_color=7FFFD4&text_color=c9d1d9&bg_color=0d1117" alt="Caleb Castilho Nunes github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matuzalane&layout=compact&hide_border=true&title_color=7FFFD4&text_color=7FFFD4&bg_color=0d1117" />
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matuzalane&&bg_color=0d1117&color=00ffff&line=7fffd4&point=00ffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matuzalane&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://streak-stats.demolab.com/?user=Matuzalane&theme=dark&background=0d1117&border=0d1117&stroke=7FFFD4&ring=7FFFD4&fire=7FFFD4&currStreakNum=7FFFD4&sideNums=7FFFD4&currStreakLabel=7FFFD4&sideLabels=7FFFD4&dates=c9d1d9" alt="GitHub Streak" />
 </p>
 
 ##
 <br/>
 
 <div align="center"> 
-    <a href="https://www.facebook.com/calebnunesmkt" target="_blank">
+    <a href="https://www.facebook.com/calebnunes.dev" target="_blank">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
-    <a href="https://www.instagram.com/calebnunesmkt/" target="_blank">
+    <a href="https://www.instagram.com/calebnunes.dev/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://www.behance.net/calebnunesmkt" target="_blank">
         <img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
     </a> 
-    <a href = "https://wa.me/5553997017942?text=Ol%C3%A1%2C+vi+seu+contato+no+GitHub+e+gostaria+de+trocar+uma+id%C3%A9ia."> 
+    <a href="https://wa.me/555399481083?text=Ol%C3%A1%2C+vi+seu+contato+no+GitHub+e+gostaria+de+trocar+uma+id%C3%A9ia."> 
         <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
     </a>
-    <a href = "mailto:calebcastilhonunes@gmail.com"> 
+    <a href="mailto:calebcastilhonunes@gmail.com"> 
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
-    <a href="https://www.linkedin.com/in/calebnunesmkt/" target="_blank">
+    <a href="https://www.linkedin.com/in/calebcnunes/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
     </a> 
  </div>
@@ -65,18 +62,17 @@
 
 <div align="center" width="100%"> 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Matuzalane/Matuzalane/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/Matuzalane/Matuzalane/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/Matuzalane/Matuzalane/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matuzalane/Matuzalane/output/github-contribution-grid-snake-dark.svg?palette=github-dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Matuzalane/Matuzalane/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Matuzalane/Matuzalane/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
 <div align="center">
   <br/>
   <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matuzalane}/count.svg" /></p> 
+  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=Matuzalane&color=7fffd4&style=flat-square" /></p> 
   <br/>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7FFFD4&height=120&section=footer"/>
